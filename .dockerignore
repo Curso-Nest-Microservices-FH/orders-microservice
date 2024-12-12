@@ -1,0 +1,11 @@
+
+
+dist/
+
+node_module/
+
+.env
+
+.vscode/
+
+.DS_store
